@@ -1,4 +1,4 @@
-export const firstClickText = 'Click here to enable analog mouse control';
+export const firstClickText = 'Click mouse';
 export const secondClickText = 'Click again to enable';
 
 export const createClickElement = () => {
